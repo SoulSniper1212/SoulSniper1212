@@ -1,13 +1,13 @@
 # 👋 Hey, I’m Arush Wadhawan
 
-💻 **Aspiring Computer Engineer | Cybersecurity Specialist | AI Developer**  
-I’m passionate about building **high-performance systems**, creating **AI-powered solutions**, and exploring the **frontiers of cybersecurity**.  
+💻 **Aspiring Computer Engineer | | ML Engineer**  
+I’m passionate about building **high performance systems**, creating **AI powered solutions**, and exploring the **frontiers of Machine Learning**.  
 Whether it’s training neural networks, securing endpoints, or building custom PCs, I love turning ideas into reality.
 
 ---
 
 ## 🧠 About Me
-- 🔒 Competed in **CyberPatriot** & **SkillsUSA Cybersecurity** (Top 3 in NC)
+- 🔒 Competed in **CyberPatriot** (First Place in Gold Division) & **SkillsUSA Cybersecurity** (Top 3 in NC)
 - 🤖 Working on **AI seizure detection** using EEG data (CHB-MIT dataset)
 - 💻 Founder of a **custom PC business** — design, build, and optimize high-end rigs
 - 🚀 Love blending **hardware + software** to solve real-world problems
@@ -49,13 +49,6 @@ Using EEG data from the **CHB-MIT dataset** to predict seizures before they occu
 Trained a CNN model on preictal brainwave patterns for early warning systems.  
 **Tech:** Python, TensorFlow, NumPy, Matplotlib  
 [🔗 View Project](https://github.com/SoulSniper1212/seizure-detection-ai)
-
----
-
-### 🤖 AI-Powered Tech Blog
-A fully automated blog that scrapes Reddit tech posts and generates articles with AI.  
-**Stack:** Next.js, TypeScript, Prisma, Gemini API  
-[🔗 Live Demo](https://tech-access.vercel.app) | [🔗 GitHub Repo](https://github.com/SoulSniper1212/blog-ai)
 
 ---
 
